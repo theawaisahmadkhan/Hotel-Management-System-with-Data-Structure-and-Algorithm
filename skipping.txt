@@ -1,1 +1,7 @@
-awais	ahmad	male	2	standard	12	600	2	1	1	2	2	1	1
+awais	ahmad	male	21	standard	1	600	2	1	1	12	1	1	1
+shah	hussain	male	25	superior	12	2000	2	2	21	12	1	1	1
+ahmad	shah	male	23	superior	25	1000	1	3	21	12	1	1	1
+awais	ahmad	male	21	standard	1	600	2	1	1	12	1	1	1
+furqan	shah	male	26	standard	124	600	2	1	3	12	5	1	1
+imran	haider	male	23	standard	256	900	3	1	2	12	4	1	1
+furqan	shah	male	26	standard	124	600	2	1	3	12	5	1	1
